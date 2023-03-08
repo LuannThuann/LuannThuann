@@ -9,6 +9,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=LuannThuann&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Snake animation](https://github.com/Luannthuann/Luannthuan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/LuannThuann/LuannThuan/blob/output/github-contribution-grid-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
